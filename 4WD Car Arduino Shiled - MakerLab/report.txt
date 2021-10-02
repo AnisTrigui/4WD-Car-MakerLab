@@ -1,0 +1,18 @@
+Info: Vérification du composant de la netliste "J1:/5F984AFD:Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical".
+
+Info: Vérification du composant de la netliste "J2:/5F984BE3:Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical".
+
+Info: Vérification du composant de la netliste "J3:/5F984D22:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical".
+
+Info: Vérification du composant de la netliste "J4:/5F984E25:Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical".
+
+Info: Vérification du composant de la netliste "J5:/5F984F14:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical".
+
+Info: Vérification du composant de la netliste "J6:/5F985089:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical".
+
+Info: Vérification du composant de la netliste "J7:/5F985162:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical".
+
+Info: Vérification du composant de la netliste "J8:/5F9852E3:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical".
+
+Info: Vérification du composant de la netliste "J9:/5F9854DF:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical".
+

@@ -1,0 +1,192 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:Conn_01x08_Male J1
+U 1 1 5F984AFD
+P 6250 800
+F 0 "J1" V 6085 726 50  0000 C CNN
+F 1 "Conn_01x08_Male" V 6176 726 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 6250 800 50  0001 C CNN
+F 3 "~" H 6250 800 50  0001 C CNN
+	1    6250 800 
+	0    1    1    0   
+$EndComp
+Text GLabel 6450 1000 3    50   Input ~ 0
+RX
+Text GLabel 6550 1000 3    50   Input ~ 0
+TX
+NoConn ~ 6350 1000
+NoConn ~ 6250 1000
+NoConn ~ 6150 1000
+NoConn ~ 6050 1000
+NoConn ~ 5950 1000
+NoConn ~ 5850 1000
+$Comp
+L Connector:Conn_01x10_Male J2
+U 1 1 5F984BE3
+P 5000 800
+F 0 "J2" V 4835 726 50  0000 C CNN
+F 1 "Conn_01x10_Male" V 4926 726 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical" H 5000 800 50  0001 C CNN
+F 3 "~" H 5000 800 50  0001 C CNN
+	1    5000 800 
+	0    1    1    0   
+$EndComp
+NoConn ~ 5400 1000
+Text GLabel 5300 1000 3    50   Input ~ 0
+servo
+Text GLabel 5200 1000 3    50   Input ~ 0
+IN1
+Text GLabel 5100 1000 3    50   Input ~ 0
+IN2
+Text GLabel 5000 1000 3    50   Input ~ 0
+IN3
+Text GLabel 4900 1000 3    50   Input ~ 0
+IN4
+NoConn ~ 4800 1000
+NoConn ~ 4700 1000
+NoConn ~ 4600 1000
+NoConn ~ 4500 1000
+$Comp
+L Connector:Conn_01x06_Male J3
+U 1 1 5F984D22
+P 6300 1450
+F 0 "J3" V 6360 1690 50  0000 L CNN
+F 1 "Conn_01x06_Male" V 6451 1690 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 6300 1450 50  0001 C CNN
+F 3 "~" H 6300 1450 50  0001 C CNN
+	1    6300 1450
+	0    1    1    0   
+$EndComp
+Text GLabel 6000 1650 3    50   Input ~ 0
+trig
+Text GLabel 6100 1650 3    50   Input ~ 0
+echo
+NoConn ~ 6200 1650
+NoConn ~ 6300 1650
+NoConn ~ 6400 1650
+NoConn ~ 6500 1650
+$Comp
+L Connector:Conn_01x08_Male J4
+U 1 1 5F984E25
+P 5100 1500
+F 0 "J4" V 4935 1426 50  0000 C CNN
+F 1 "Conn_01x08_Male" V 5026 1426 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" H 5100 1500 50  0001 C CNN
+F 3 "~" H 5100 1500 50  0001 C CNN
+	1    5100 1500
+	0    1    1    0   
+$EndComp
+Text GLabel 5400 1700 3    50   Input ~ 0
+vin
+Text GLabel 5300 1700 3    50   Input ~ 0
+gnd
+NoConn ~ 5200 1700
+NoConn ~ 5100 1700
+NoConn ~ 5000 1700
+NoConn ~ 4900 1700
+NoConn ~ 4800 1700
+NoConn ~ 4700 1700
+$Comp
+L Connector:Conn_01x04_Female J5
+U 1 1 5F984F14
+P 3500 750
+F 0 "J5" V 3440 462 50  0000 R CNN
+F 1 "Conn_01x04_Female" V 3349 462 50  0000 R CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 3500 750 50  0001 C CNN
+F 3 "~" H 3500 750 50  0001 C CNN
+	1    3500 750 
+	0    -1   -1   0   
+$EndComp
+Text GLabel 3700 950  3    50   Input ~ 0
+RX
+Text GLabel 3600 950  3    50   Input ~ 0
+TX
+Text GLabel 3500 950  3    50   Input ~ 0
+gnd
+Text GLabel 3400 950  3    50   Input ~ 0
+vin
+$Comp
+L Connector:Conn_01x04_Female J6
+U 1 1 5F985089
+P 3550 1400
+F 0 "J6" V 3490 1112 50  0000 R CNN
+F 1 "Conn_01x04_Female" V 3399 1112 50  0000 R CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 3550 1400 50  0001 C CNN
+F 3 "~" H 3550 1400 50  0001 C CNN
+	1    3550 1400
+	0    -1   -1   0   
+$EndComp
+Text GLabel 3750 1600 3    50   Input ~ 0
+IN1
+Text GLabel 3650 1600 3    50   Input ~ 0
+IN2
+Text GLabel 3550 1600 3    50   Input ~ 0
+IN3
+Text GLabel 3450 1600 3    50   Input ~ 0
+IN4
+$Comp
+L Connector:Conn_01x04_Female J7
+U 1 1 5F985162
+P 2250 750
+F 0 "J7" V 2190 462 50  0000 R CNN
+F 1 "Conn_01x04_Female" V 2099 462 50  0000 R CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 2250 750 50  0001 C CNN
+F 3 "~" H 2250 750 50  0001 C CNN
+	1    2250 750 
+	0    -1   -1   0   
+$EndComp
+Text GLabel 2450 950  3    50   Input ~ 0
+vin
+Text GLabel 2350 950  3    50   Input ~ 0
+trig
+Text GLabel 2250 950  3    50   Input ~ 0
+echo
+Text GLabel 2150 950  3    50   Input ~ 0
+gnd
+$Comp
+L Connector:Conn_01x03_Female J8
+U 1 1 5F9852E3
+P 2350 1400
+F 0 "J8" V 2290 1212 50  0000 R CNN
+F 1 "Conn_01x03_Female" V 2199 1212 50  0000 R CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 2350 1400 50  0001 C CNN
+F 3 "~" H 2350 1400 50  0001 C CNN
+	1    2350 1400
+	0    -1   -1   0   
+$EndComp
+Text GLabel 2450 1600 3    50   Input ~ 0
+servo
+Text GLabel 2350 1600 3    50   Input ~ 0
+vin
+Text GLabel 2250 1600 3    50   Input ~ 0
+gnd
+$Comp
+L Connector:Conn_01x02_Male J9
+U 1 1 5F9854DF
+P 1350 850
+F 0 "J9" V 1410 890 50  0000 L CNN
+F 1 "Conn_01x02_Male" V 1501 890 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 1350 850 50  0001 C CNN
+F 3 "~" H 1350 850 50  0001 C CNN
+	1    1350 850 
+	0    1    1    0   
+$EndComp
+Text GLabel 1350 1050 3    50   Input ~ 0
+vin
+Text GLabel 1250 1050 3    50   Input ~ 0
+gnd
+$EndSCHEMATC
